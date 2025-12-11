@@ -41,3 +41,7 @@ A premium, fast, and secure client-side tool to convert images to Base64 strings
    ```
 
    Or connect your GitHub repository to Cloudflare Pages dashboard and set the build command to `npm run build` and output directory to `dist`.
+
+## License
+
+MIT License
